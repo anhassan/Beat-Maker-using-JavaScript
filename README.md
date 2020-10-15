@@ -1,6 +1,6 @@
 # Beat Maker in JavaScript
 ## Introduction
-Tap Music is a JavaScript based web application which creates different sounds on clicking different colors on a bar placed at the end of the user interface(UI).
+Tap Music is a JavaScript based web application which creates different sounds by clicking on different colors on a bar placed at the end of the user interface(UI).
 
 <p align="center">
   <img width="460" height="300" src="images/BeatMaker.PNG">
